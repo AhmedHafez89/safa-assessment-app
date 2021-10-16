@@ -1,0 +1,77 @@
+.CompanyLogoTitle {
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+    text-align: center;
+}
+
+.CompanyLogoSubTitle {
+    color: rgba(0, 0, 0, 0.80);
+    font-size: 15px !important;
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+    text-align: center;
+}
+
+.CompanyLogoContent {
+    background-color: #fff;
+    border-radius: 6px;
+    border: 1px solid #e7e7e7;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.CompanyLogoUpload {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.CompanyLogoPlus {
+    position: absolute;
+    left: 55%;
+    background-color: #fff;
+    border-radius: 50%;
+    font-size: 50px !important;
+    color: #ff5f59;
+}
+
+.CompanyLogoImage {
+    border: 1px solid #eae8e9;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.CompanyLogoImageIcon {
+    color: #acacac;
+    font-size: 110px !important;
+    background-color: #eae8e9;
+    border-radius: 50%;
+    padding: 50px;
+}
+
+.CompanyLogoFooter {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.CompanyLogoAction {
+    float: right;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.CompanyLogoNextButton {
+    margin-right: 0px !important;
+    background-color: #1777fb !important;
+    width: 200px !important;
+    text-transform: unset !important;
+    color: #fff !important;
+}
+
+.CompanyLogoBackButton {
+    background: #eae8e9 !important;
+    width: 100px !important;
+    text-transform: unset !important;
+    margin-right: 8px !important;
+}

@@ -1,0 +1,159 @@
+.UserInfoTitle {
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+    text-align: center;
+}
+
+.UserInfoContent {
+    background-color: #fff;
+    border-radius: 6px;
+    border: 1px solid #e7e7e7;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.FullNameInput {
+    width: 100%;
+}
+
+.BusinessEmailInput {
+    width: 100%;
+}
+
+.CountryInput {
+    width: 50%;
+}
+
+.UserInfoPhoneNumberInput {
+    width: 100%;
+}
+
+.PasswordInput {
+    width: 100%;
+}
+
+.ConfirmPasswordInput {
+    width: 100%;
+}
+
+.UserInfoInput .MuiInputLabel-filled.MuiInputLabel-shrink {
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.75);
+}
+
+.UserInfoInput .MuiFilledInput-input {
+    color: rgba(0, 0, 0, 0.65);
+}
+
+.UserInfoInput .MuiFilledInput-root {
+    background-color: #fff;
+    border-radius: 4px;
+    border: 1px solid #f4f4f4;
+    margin-bottom: 15px !important;
+}
+
+.UserInfoPhoneNumberInput .MuiFilledInput-root{
+    border-radius: 0px 4px 4px 0px !important;
+}
+
+.CountryInput .MuiFilledInput-root {
+    margin-right: 15px !important;
+}
+
+.UserInfoInput .MuiFilledInput-root:hover {
+    background-color: #fff;
+}
+
+.UserInfoInput .MuiFilledInput-root.Mui-focused {
+    background-color: #fff;
+}
+
+.UserInfoInput .MuiFilledInput-underline:before {
+    border-bottom: none !important;
+}
+
+.UserInfoInput .MuiFilledInput-underline:after {
+    border-bottom: none !important;
+}
+
+.UserInfoInput .MuiFormLabel-root.Mui-focused {
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.UserInfoInputError .MuiFilledInput-root{
+    border-color: #ff5f59 !important;
+    margin-bottom: 0px !important;
+}
+
+.UserInfoInput .MuiFormHelperText-root.Mui-error {
+    color: #ff5f59 !important;
+    margin-left: 0px !important;
+}
+
+.PasswordInputError {
+    color: #ff5f59 !important;
+    margin-left: 0px !important;
+}
+
+.CountryInputError {
+    color: #ff5f59 !important;
+    margin-left: 0px !important; 
+}
+
+.UserInfoPhoneNumberContainer {
+    display: inline-flex;
+    width: 50%;
+}
+
+.UserInfoPhoneNumberCode {
+    border-top: 1px solid #f4f4f4;
+    height: 56px;
+    border-radius: 4px 0px 0px 4px;
+    border-left: 1px solid #f4f4f4;
+    border-bottom: 1px solid #f4f4f4;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgba(0, 0, 0, 0.75);
+    font-size: 13px;
+}
+
+.UserInfoPhoneNumberCodeError {
+    border-color: #ff5f59 !important;
+}
+
+.UserInfoFooter {
+    display: flex;
+    justify-content: space-between;
+}
+
+.BackToLogin {
+    float: left;
+}
+
+.BackToLoginButton {
+    text-transform: unset !important;
+    padding-left: 0px !important;
+}
+
+.UserInfoAction {
+    float: right;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.UserInfoNextButton {
+    margin-right: 0px !important;
+    background-color: #1777fb !important;
+    width: 200px !important;
+    text-transform: unset !important;
+    color: #fff !important;
+}
+
+.UserInfoBackButton {
+    background: #eae8e9 !important;
+    width: 100px !important;
+    text-transform: unset !important;
+    margin-right: 8px !important;
+}

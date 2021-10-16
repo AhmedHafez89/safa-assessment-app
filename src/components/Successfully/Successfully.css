@@ -1,0 +1,77 @@
+.SuccessfullyContainer {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.SuccessfullyTitle {
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+    text-align: center;
+}
+
+.SuccessfullyContent {
+    background-color: #fff;
+    border-radius: 6px;
+    border: 1px solid #e7e7e7;
+    padding: 50px;
+    margin-bottom: 15px;
+}
+
+
+.SuccessfullyMailBox {
+    display: flex;
+    justify-content: space-around;
+}
+
+.SuccessfullyMailBoxImg {
+    width: 200px;
+}
+
+.SuccessfullyMessage {
+    display: flex;
+    flex-direction: column;
+}
+
+.SuccessfullyMessageTitle {
+    color: rgba(0, 0, 0, 0.80);
+    font-size: 18px !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    text-align: center;
+}
+
+.SuccessfullyMessageSubTitle {
+    color: rgba(0, 0, 0, 0.80);
+    font-size: 15px !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    text-align: center;
+}
+
+.SuccessfullySendEmail {
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+}
+
+.SuccessfullySendEmailTitle {
+    color: rgba(0, 0, 0, 0.80);;
+    font-size: 15px !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    text-align: center;
+}
+
+.SuccessfullySendEmailSubTitle {
+    color: rgba(0, 0, 0, 0.80);
+    font-size: 15px !important;
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+    text-align: center;
+}
+
+.SuccessfullySendEmailLink {
+    color: #ff5f59 !important;
+    text-decoration: underline !important;
+    margin-left: 5px !important;
+}
